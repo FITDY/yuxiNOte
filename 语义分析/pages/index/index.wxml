@@ -1,0 +1,22 @@
+<!-- pages/index/index.wxml -->
+<bac></bac>
+<view class="warp">
+    <view class="bac"></view>
+    <view class="content">
+        <view class="op">
+            <view class="by_me">由我创建</view>
+            <view class="by_share">来自分享</view>
+            <view class="weixi">微信文件</view>
+        </view>
+        <view>
+            <image class="take_photo" src="/images/index_camera.png" mode="widthFix"></image>
+            
+        </view>
+        
+       
+   </view>
+
+</view>
+<tabBar pageIndex="0"></tabBar>
+
+    
